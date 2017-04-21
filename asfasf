@@ -1,1 +1,11 @@
-uasydaisyhdaisyhduyasgdyagsbuauyst
+1. cd  exiting_forlder
+2. git init // Memperkenalkan
+3. git remote add origin url.git // Menambah URL GIT
+
+
+git remote add origin #https://github.com/gedelumbung/OptionMenu.git
+// membuat remote ke URL GIT kita
+4. git add .*
+5. git status
+6. git commit // 	git commit -m "Commit Pertama"
+7. git push -u origin master
